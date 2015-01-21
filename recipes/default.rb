@@ -2,7 +2,7 @@
 # Cookbook Name:: staticip
 # Recipe:: default
 #
-# Copyright 2015, DennyZhang.com
+# Copyright 2015, http://DennyZhang.com
 #
 # All rights reserved - Do Not Redistribute
 #
