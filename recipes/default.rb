@@ -12,3 +12,4 @@ if not node[:staticip].attribute?(:ipaddress_port)
 end
 
 # TODO to be implemented
+Chef::Log.warn("TO be implemented soon. Free free to email or file tickets to me")
