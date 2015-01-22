@@ -34,9 +34,9 @@ Examples and Common usage
 License & Authors
 -----------------
 - Author:: DennyZhang001 <denny.zhang001@gmail.com>
+- Copyright:: 2015, http://DennyZhang.com
 
 ```text
-Copyright:: 2015, DennyZhang.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
