@@ -7,8 +7,8 @@
 # All rights reserved - Do Not Redistribute
 #
 
-if not node[:staticip].attribute?(:ipaddress_port)
-  Chef::Application.fatal!("Required parameter of ['staticip']['ipaddress'] must be set")
+if node[:staticip][:ipaddress] == "127.0.0.1"
+  Chef::Log.warn "Need to specify node['staticip']['ipaddress'], in order to set static ip"
 end
 
 # TODO to be implemented
