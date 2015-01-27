@@ -7,9 +7,9 @@
 # All rights reserved - Do Not Redistribute
 #
 
-if node[:staticip][:ipaddress] == "127.0.0.1"
-  Chef::Log.warn "Need to specify node['staticip']['ipaddress'], in order to set static ip"
+if node[:staticip][:ipaddress] == '127.0.0.1'
+  Chef::Log.warn 'Attribute of node[:staticip][:ipaddress] is required'
 end
 
-# TODO to be implemented
-Chef::Log.warn("TO be implemented soon. Free free to email or file tickets to me")
+# TODO: to be implemented
+Chef::Log.warn('TO be implemented soon.')
