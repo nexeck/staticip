@@ -1,5 +1,6 @@
 staticip Cookbook
 ================
+[![Build Status](https://travis-ci.org/DennyZhang/staticip.svg?branch=master)](https://travis-ci.org/DennyZhang/staticip)
 Configure static ip
 
 Requirements
