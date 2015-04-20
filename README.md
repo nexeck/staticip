@@ -28,7 +28,7 @@ Examples and Common usage
 ```json
 "staticip": {
   "nic_interface": "eth0",
-  "ipaddress": "127.0.0.1"
+  "ipaddress": "192.168.1.103"
 }
 ```
 
